@@ -5,7 +5,7 @@ The car learns to navigate its environment, avoid obstacles, and follow the trac
 
 ## 🎥 Demo  
 
-Download: [Driving Car RL](CarRacing-DQN.mp4)  
+Download: [Driving Car RL](Driving Car-Reinforcement Learning/CarRacing-DQN.mp4)  
 
 
 ## Overview  
@@ -17,6 +17,7 @@ Download: [Driving Car RL](CarRacing-DQN.mp4)
 ## Author  
 
 **Gal Schechter**
+
 
 
 
