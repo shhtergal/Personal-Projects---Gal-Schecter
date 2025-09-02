@@ -1,6 +1,10 @@
 # Motion Planning
 
-This project explores **robotic motion planning** using Python, computer vision, and computational geometry techniques. It demonstrates how to represent environments with obstacles, define start/goal points, and generate paths through Voronoi diagrams.  
+This project explores **robotic motion planning** using Python, computer vision, and computational geometry techniques. It demonstrates how to represent environments with obstacles, define start/goal points, and generate paths through Voronoi diagrams. 
+
+## Code
+
+[Motion Planing](MotionPlaning.ipynb)
 
 ## Features
 - **Environment Setup**:  
