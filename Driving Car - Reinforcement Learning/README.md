@@ -5,7 +5,7 @@ The car learns to navigate its environment, avoid obstacles, and follow the trac
 
 ## 🎥 Demo  
 
-![Self-Driving Car Demo](self_driving_demo.gif)  
+![Self-Driving Car Demo](CarRacing- DQN.gif)  
 
 ▶️ [Watch Full Video](10d3282d-4ac4-44a9-858e-941755ac6b2d.mp4)  
 
@@ -18,3 +18,4 @@ The car learns to navigate its environment, avoid obstacles, and follow the trac
 ## Author  
 
 **Gal Schechter**
+
